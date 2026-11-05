@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-guide-developer"
+tier = 4
+description = "Developer reference guide, API contracts, and ABI specification generator for SigmaOS"
+contracts = ['developer-guide', 'abi-spec-parser', 'syscall-reference']
+upstream_inspirations = ['https://github.com/linuxmint/doc-developer-guide']
